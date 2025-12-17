@@ -1,17 +1,6 @@
 # nd1-learning-journey-2025
 KMUTT-INC-ND01 Industrial IoT 2025
 
-# Homework Content
-* IoT Concepts
-
-* Embedded Systems
-
-* Communication & Networking
-
-* Software & Programming
-
-* Future Works/Projects
-
 Homework Link : https://www.canva.com/design/DAG0zael8mg/PlPjd9rpZrEWhlUtb4ftqQ/edit
 
 # Intro  [Week1 04/10/2025]
@@ -44,7 +33,9 @@ Homework Link : https://www.canva.com/design/DAG0zael8mg/PlPjd9rpZrEWhlUtb4ftqQ/
 * Note : *ถ้าตั้ง QOC2 รับประกัน รับส่งกันได้แล้ว แต่จะเป็น ภาระ server อาจารย์แนะนำให้ทำเป็น handshake จะดีกว่า 
 * Timeline of VScode : electron > mitcrosoft > vs code 
 * Protocol for IIoT : Websocket, HTTP, MQTT
-* HTTPS,TSL/SSL,TSL1.3,mSTL,openssl,certbot,wireshark - network analyzer 
+* HTTPS,TSL/SSL,TSL1.3,mSTL,openssl,certbot,wireshark - network analyzer
+
+*Homework*
 
   
 # Circuit & PCB Design [Week3 18/10/2025]
@@ -75,6 +66,8 @@ Homework Link : https://www.canva.com/design/DAG0zael8mg/PlPjd9rpZrEWhlUtb4ftqQ/
 
 *Resource* 
 * Learn PCB Design in KiCad (Step-by-Step 1-Hour Tutorial for Beginners) : https://www.youtube.com/watch?v=8PiS4RXM3Ys
+
+*Homework*
   
 # Firmware Design - workshop [Week5 1/11/2025]
 *Course Outline*
@@ -104,6 +97,8 @@ Homework Link : https://www.canva.com/design/DAG0zael8mg/PlPjd9rpZrEWhlUtb4ftqQ/
 * UML Diagram
 * Sequence Diagram : Fundamental software design
 * Fenite state machine diagram
+
+*Homework*
   
 # Show-case FSM, Event driven, RTOS - workshop [Week6 8/11/2025]
 *Course Outline*
@@ -128,6 +123,8 @@ Homework Link : https://www.canva.com/design/DAG0zael8mg/PlPjd9rpZrEWhlUtb4ftqQ/
 *Note*
 * Arduino-Q ==> The **Arduino UNO Q – 2GB** represents a major step forward in the UNO family, combining the simplicity and compatibility of the classic Arduino board with the power of a Linux-capable processor. Designed for developers, educators, and advanced makers, it merges a **Qualcomm® QRB2210 quad-core Arm® Cortex®-A53 processor** with a **real-time STM32U585 microcontroller**, creating a seamless bridge between high-level computing and precise hardware control.
 * Basic IoT/ PCB/ Network/ Internet/Ethernet
+
+*Homework*
 
 # Industrial network and machine communication - API Server [Week8 22/11/2025]
 *Course Outline*
@@ -159,6 +156,7 @@ Homework Link : https://www.canva.com/design/DAG0zael8mg/PlPjd9rpZrEWhlUtb4ftqQ/
 * ggplot in R : https://ggplot2.tidyverse.org/
 * Sample ggplot2 : https://exts.ggplot2.tidyverse.org/gallery/
 
+*Homework*
 
 # R Programming for Data Processing & Visualization [Week10 6/12/2025]
 *Course Outline*
@@ -186,3 +184,11 @@ Homework Link : https://www.canva.com/design/DAG0zael8mg/PlPjd9rpZrEWhlUtb4ftqQ/
 
 *Note*
 * Start run docker compose and customize docker image.
+*Homework*
+* Create github account summarize everything you learn
+*Detail*
+* IoT Concepts
+* Embedded Systems
+* Communication & Networking
+* Software & Programming
+* Future Works/Projects
