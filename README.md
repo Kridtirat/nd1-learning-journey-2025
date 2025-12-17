@@ -2,15 +2,15 @@
 KMUTT-INC-ND01 Industrial IoT 2025
 
 # Homework Content
-## IoT Concepts
+* IoT Concepts
 
-## Embedded Systems
+* Embedded Systems
 
-## Communication & Networking
+* Communication & Networking
 
-## Software & Programming
+* Software & Programming
 
-## Future Works/Projects
+* Future Works/Projects
 
 
 
