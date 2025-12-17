@@ -15,10 +15,15 @@ KMUTT-INC-ND01 Industrial IoT 2025
 
 
 # Intro  [Week1 04/10/2025]
-* Part1/2
+* Table of content : https://drsanti.github.io/kmutt-non-degree-2025/
+* Proteus software : https://drive.google.com/file/d/1dCONbSFA7XhST5t7x1asnzEiQXti1_kb/view?pli=1
+* Youtube Proteus : https://www.youtube.com/playlist?list=PLBPFpqyTjzeWMHMPEelGzFdcG4sfcESYc
+* Stack Edit -> Create Markdown : https://stackedit.io/
+
 
 # Industrial Protocol [Week2 11/10/2025]
 * MQTT Broker(EMQX)
+** QUIC Protocol
 * EMQX Management Dashboard
 * MQTT Client(Python) 
   
